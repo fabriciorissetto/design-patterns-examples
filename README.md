@@ -13,10 +13,10 @@ Some examples of GoF Design Patterns
  * <a href="/2. Structural Patterns/Bridge Pattern">Bridge Patterns</a>
  * <a href="/2. Structural Patterns/Proxy Pattern">Proxy Patterns</a> 
  <!-- * <a href="/2. Structural Patterns/Composite Pattern">Composite*</a> -->
- <!-- * <a href="/2. Structural Patterns/Decorator Pattern">Decorator*</a> ->>
+ <!-- * <a href="/2. Structural Patterns/Decorator Pattern">Decorator*</a> -->
  <!-- * <a href="/2. Structural Patterns/Facade Pattern">Façade*</a> -->
 * **Behavioral Patterns**
  * <a href="/3. Behavioral Patterns/Strategy Pattern">Strategy</a>
  <!-- * <a href="/3. Behavioral Patterns/Command Pattern">Command*</a> -->
- <!-- * <a href="/3. Behavioral Patterns/Observer Pattern">Observer*</a> -->
+ <!-- * <a href="/3. Behavioral Patterns/Observer Pattern">Observer*</a>-->
 
