@@ -20,3 +20,7 @@ Some examples of GoF Design Patterns
  <!-- * <a href="/3. Behavioral Patterns/Command Pattern">Command*</a> -->
  <!-- * <a href="/3. Behavioral Patterns/Observer Pattern">Observer*</a>-->
 
+
+* **Others**
+ * <a href="/4. Others/LawOfDemeter">Law of Demeter</a>
+
